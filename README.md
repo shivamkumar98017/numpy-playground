@@ -1,6 +1,20 @@
-# NumPy Playground
+<p align="center">
+  <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="180">
+</p>
 
-**A structured, progressive practice repository for mastering NumPy** — the foundational library for numerical computing in Python and a core building block of Machine Learning and Data Science.
+<h1 align="center">NumPy Playground</h1>
+
+<p align="center">
+  <b>A structured, progressive practice repository for mastering NumPy</b><br>
+  The foundational library for numerical computing in Python & Machine Learning
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-1.x-013243?logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-success" alt="Level">
+</p>
 
 ---
 
@@ -67,6 +81,7 @@ numpy-playground/
 1. Clone the repository:
    ```bash
    git clone https://github.com/shivamkumar98017/numpy-playground.git
+   cd numpy-playground
    ```
 2. Open the notebooks **in sequence** using Google Colab or Jupyter Notebook.
 3. Execute every cell carefully and experiment by changing values.
@@ -83,9 +98,9 @@ numpy-playground/
 
 ## Tech Stack
 
-- Python 3
-- NumPy
-- Jupyter Notebook / Google Colab
+- **Python 3**
+- **NumPy**
+- **Jupyter Notebook / Google Colab**
 
 ---
 
@@ -103,11 +118,14 @@ Teachers and admission committees can clearly see:
 ## Author
 
 **Shivam Kumar**  
-Aspiring AI/ML Engineer & Cybersecurity Enthusiast  
-Motihari, Bihar  
+AI/ML Engineer • Cybersecurity Enthusiast  
+Motihari, Bihar
 
-[GitHub](https://github.com/shivamkumar98017) • [Email](mailto:shivamk34442@gmail.com)
+[GitHub](https://github.com/shivamkumar98017) • [Email](mailto:shivamk34442@gmail.com) • [Instagram](https://www.instagram.com/shivamkumar98017/)
 
 ---
 
-*Part of a structured learning path: Core Python → Advanced Python → NumPy → Pandas → Machine Learning*
+<p align="center">
+  <sub>Part of a structured learning path:<br>
+  <b>Core Python → Advanced Python → NumPy → Pandas → Machine Learning</b></sub>
+</p>
